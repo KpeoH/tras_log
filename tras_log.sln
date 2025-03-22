@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tras_log", "tras_log.csproj", "{68D6A63E-BB10-4EF8-879E-1381178B8D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D6A63E-BB10-4EF8-879E-1381178B8D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D6A63E-BB10-4EF8-879E-1381178B8D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D6A63E-BB10-4EF8-879E-1381178B8D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D6A63E-BB10-4EF8-879E-1381178B8D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8742B13-35F2-4395-83F5-657BDF70293E}
+	EndGlobalSection
+EndGlobal
